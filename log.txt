@@ -1,0 +1,431 @@
+39088:C 19 Jul 2020 03:49:52.311 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+39088:C 19 Jul 2020 03:49:52.312 # Redis version=6.0.3, bits=64, commit=00000000, modified=0, pid=39088, just started
+39088:C 19 Jul 2020 03:49:52.312 # Configuration loaded
+39088:M 19 Jul 2020 03:49:52.313 # Could not create server TCP listening socket 127.0.0.1:6379: bind: Address already in use
+39159:C 19 Jul 2020 03:50:49.393 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+39159:C 19 Jul 2020 03:50:49.393 # Redis version=6.0.3, bits=64, commit=00000000, modified=0, pid=39159, just started
+39159:C 19 Jul 2020 03:50:49.393 # Configuration loaded
+39159:M 19 Jul 2020 03:50:49.395 # Could not create server TCP listening socket 127.0.0.1:6379: bind: Address already in use
+44269:C 19 Jul 2020 04:51:45.339 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+44269:C 19 Jul 2020 04:51:45.341 # Redis version=6.0.3, bits=64, commit=00000000, modified=0, pid=44269, just started
+44269:C 19 Jul 2020 04:51:45.341 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 6.0.3 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 44269
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+44269:M 19 Jul 2020 04:51:45.345 # Server initialized
+44269:M 19 Jul 2020 04:51:45.346 * Ready to accept connections
+44274:C 19 Jul 2020 04:51:49.525 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+44274:C 19 Jul 2020 04:51:49.525 # Redis version=6.0.3, bits=64, commit=00000000, modified=0, pid=44274, just started
+44274:C 19 Jul 2020 04:51:49.525 # Configuration loaded
+44274:M 19 Jul 2020 04:51:49.527 # Could not create server TCP listening socket 127.0.0.1:6379: bind: Address already in use
+44269:signal-handler (1595130727) Received SIGTERM scheduling shutdown...
+44269:M 19 Jul 2020 04:52:07.694 # User requested shutdown...
+44269:M 19 Jul 2020 04:52:07.694 * Saving the final RDB snapshot before exiting.
+44269:M 19 Jul 2020 04:52:07.695 * DB saved on disk
+44269:M 19 Jul 2020 04:52:07.695 * Removing the pid file.
+44269:M 19 Jul 2020 04:52:07.695 # Redis is now ready to exit, bye bye...
+48745:C 19 Jul 2020 05:38:34.275 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+48745:C 19 Jul 2020 05:38:34.277 # Redis version=6.0.3, bits=64, commit=00000000, modified=0, pid=48745, just started
+48745:C 19 Jul 2020 05:38:34.277 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 6.0.3 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 48745
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+48745:M 19 Jul 2020 05:38:34.286 # Server initialized
+48745:M 19 Jul 2020 05:38:34.288 * Loading RDB produced by version 6.0.3
+48745:M 19 Jul 2020 05:38:34.288 * RDB age 2787 seconds
+48745:M 19 Jul 2020 05:38:34.288 * RDB memory usage when created 1.03 Mb
+48745:M 19 Jul 2020 05:38:34.288 * DB loaded from disk: 0.002 seconds
+48745:M 19 Jul 2020 05:38:34.288 * Ready to accept connections
+48745:signal-handler (1595133529) Received SIGTERM scheduling shutdown...
+48745:M 19 Jul 2020 05:38:49.663 # User requested shutdown...
+48745:M 19 Jul 2020 05:38:49.663 * Saving the final RDB snapshot before exiting.
+48745:M 19 Jul 2020 05:38:49.665 * DB saved on disk
+48745:M 19 Jul 2020 05:38:49.665 * Removing the pid file.
+48745:M 19 Jul 2020 05:38:49.666 # Redis is now ready to exit, bye bye...
+48954:C 19 Jul 2020 05:41:26.704 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+48954:C 19 Jul 2020 05:41:26.705 # Redis version=6.0.3, bits=64, commit=00000000, modified=0, pid=48954, just started
+48954:C 19 Jul 2020 05:41:26.705 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 6.0.3 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 48954
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+48954:M 19 Jul 2020 05:41:26.710 # Server initialized
+48954:M 19 Jul 2020 05:41:26.711 * Loading RDB produced by version 6.0.3
+48954:M 19 Jul 2020 05:41:26.712 * RDB age 157 seconds
+48954:M 19 Jul 2020 05:41:26.712 * RDB memory usage when created 1.03 Mb
+48954:M 19 Jul 2020 05:41:26.712 * DB loaded from disk: 0.001 seconds
+48954:M 19 Jul 2020 05:41:26.712 * Ready to accept connections
+48954:signal-handler (1595133691) Received SIGTERM scheduling shutdown...
+48954:M 19 Jul 2020 05:41:31.308 # User requested shutdown...
+48954:M 19 Jul 2020 05:41:31.308 * Saving the final RDB snapshot before exiting.
+48954:M 19 Jul 2020 05:41:31.309 * DB saved on disk
+48954:M 19 Jul 2020 05:41:31.309 * Removing the pid file.
+48954:M 19 Jul 2020 05:41:31.309 # Redis is now ready to exit, bye bye...
+52483:C 19 Jul 2020 09:45:41.771 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+52483:C 19 Jul 2020 09:45:41.773 # Redis version=6.0.3, bits=64, commit=00000000, modified=0, pid=52483, just started
+52483:C 19 Jul 2020 09:45:41.773 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 6.0.3 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 52483
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+52483:M 19 Jul 2020 09:45:41.810 # Server initialized
+52483:M 19 Jul 2020 09:45:41.812 * Loading RDB produced by version 6.0.3
+52483:M 19 Jul 2020 09:45:41.812 * RDB age 14650 seconds
+52483:M 19 Jul 2020 09:45:41.812 * RDB memory usage when created 1.03 Mb
+52483:M 19 Jul 2020 09:45:41.812 * DB loaded from disk: 0.002 seconds
+52483:M 19 Jul 2020 09:45:41.813 * Ready to accept connections
+52483:signal-handler (1595148354) Received SIGTERM scheduling shutdown...
+52483:M 19 Jul 2020 09:45:54.500 # User requested shutdown...
+52483:M 19 Jul 2020 09:45:54.501 * Saving the final RDB snapshot before exiting.
+52483:M 19 Jul 2020 09:45:54.502 * DB saved on disk
+52483:M 19 Jul 2020 09:45:54.502 * Removing the pid file.
+52483:M 19 Jul 2020 09:45:54.502 # Redis is now ready to exit, bye bye...
+66748:C 19 Jul 2020 10:27:08.559 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+66748:C 19 Jul 2020 10:27:08.560 # Redis version=6.0.3, bits=64, commit=00000000, modified=0, pid=66748, just started
+66748:C 19 Jul 2020 10:27:08.560 # Configuration loaded
+66748:M 19 Jul 2020 10:27:08.561 * Increased maximum number of open files to 10032 (it was originally set to 256).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 6.0.3 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 66748
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+66748:M 19 Jul 2020 10:27:08.563 # Server initialized
+66748:M 19 Jul 2020 10:27:08.564 * Loading RDB produced by version 6.0.3
+66748:M 19 Jul 2020 10:27:08.564 * RDB age 2474 seconds
+66748:M 19 Jul 2020 10:27:08.564 * RDB memory usage when created 1.05 Mb
+66748:M 19 Jul 2020 10:27:08.564 * DB loaded from disk: 0.001 seconds
+66748:M 19 Jul 2020 10:27:08.564 * Ready to accept connections
+66748:signal-handler (1595150853) Received SIGTERM scheduling shutdown...
+66748:M 19 Jul 2020 10:27:33.214 # User requested shutdown...
+66748:M 19 Jul 2020 10:27:33.214 * Saving the final RDB snapshot before exiting.
+66748:M 19 Jul 2020 10:27:33.217 * DB saved on disk
+66748:M 19 Jul 2020 10:27:33.217 * Removing the pid file.
+66748:M 19 Jul 2020 10:27:33.217 # Redis is now ready to exit, bye bye...
+75607:C 19 Jul 2020 12:25:31.411 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+75607:C 19 Jul 2020 12:25:31.413 # Redis version=6.0.3, bits=64, commit=00000000, modified=0, pid=75607, just started
+75607:C 19 Jul 2020 12:25:31.413 # Configuration loaded
+75607:M 19 Jul 2020 12:25:31.430 * Increased maximum number of open files to 10032 (it was originally set to 256).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 6.0.3 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 75607
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+75607:M 19 Jul 2020 12:25:31.501 # Server initialized
+75607:M 19 Jul 2020 12:25:31.507 * Loading RDB produced by version 6.0.3
+75607:M 19 Jul 2020 12:25:31.507 * RDB age 7078 seconds
+75607:M 19 Jul 2020 12:25:31.508 * RDB memory usage when created 1.03 Mb
+75607:M 19 Jul 2020 12:25:31.508 * DB loaded from disk: 0.005 seconds
+75607:M 19 Jul 2020 12:25:31.509 * Ready to accept connections
+75607:signal-handler (1595158040) Received SIGTERM scheduling shutdown...
+75607:M 19 Jul 2020 12:27:20.388 # User requested shutdown...
+75607:M 19 Jul 2020 12:27:20.388 * Saving the final RDB snapshot before exiting.
+75607:M 19 Jul 2020 12:27:20.403 * DB saved on disk
+75607:M 19 Jul 2020 12:27:20.405 * Removing the pid file.
+75607:M 19 Jul 2020 12:27:20.408 # Redis is now ready to exit, bye bye...
+83430:C 19 Jul 2020 14:50:08.019 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+83430:C 19 Jul 2020 14:50:08.022 # Redis version=6.0.3, bits=64, commit=00000000, modified=0, pid=83430, just started
+83430:C 19 Jul 2020 14:50:08.022 # Configuration loaded
+83430:M 19 Jul 2020 14:50:08.023 * Increased maximum number of open files to 10032 (it was originally set to 256).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 6.0.3 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 83430
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+83430:M 19 Jul 2020 14:50:08.031 # Server initialized
+83430:M 19 Jul 2020 14:50:08.035 * Loading RDB produced by version 6.0.3
+83430:M 19 Jul 2020 14:50:08.035 * RDB age 8568 seconds
+83430:M 19 Jul 2020 14:50:08.035 * RDB memory usage when created 1.03 Mb
+83430:M 19 Jul 2020 14:50:08.035 * DB loaded from disk: 0.004 seconds
+83430:M 19 Jul 2020 14:50:08.035 * Ready to accept connections
+83431:C 19 Jul 2020 14:50:08.160 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+83431:C 19 Jul 2020 14:50:08.160 # Redis version=6.0.3, bits=64, commit=00000000, modified=0, pid=83431, just started
+83431:C 19 Jul 2020 14:50:08.161 # Configuration loaded
+83431:M 19 Jul 2020 14:50:08.163 * Increased maximum number of open files to 10032 (it was originally set to 256).
+83431:M 19 Jul 2020 14:50:08.163 # Could not create server TCP listening socket 127.0.0.1:6379: bind: Address already in use
+83596:C 19 Jul 2020 14:50:57.258 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+83596:C 19 Jul 2020 14:50:57.260 # Redis version=6.0.3, bits=64, commit=00000000, modified=0, pid=83596, just started
+83596:C 19 Jul 2020 14:50:57.260 # Configuration loaded
+83596:M 19 Jul 2020 14:50:57.261 * Increased maximum number of open files to 10032 (it was originally set to 256).
+83596:M 19 Jul 2020 14:50:57.262 # Could not create server TCP listening socket 127.0.0.1:6379: bind: Address already in use
+83430:signal-handler (1595166666) Received SIGTERM scheduling shutdown...
+83430:M 19 Jul 2020 14:51:06.273 # User requested shutdown...
+83430:M 19 Jul 2020 14:51:06.273 * Saving the final RDB snapshot before exiting.
+83430:M 19 Jul 2020 14:51:06.276 * DB saved on disk
+83430:M 19 Jul 2020 14:51:06.276 * Removing the pid file.
+83430:M 19 Jul 2020 14:51:06.277 # Redis is now ready to exit, bye bye...
+83619:C 19 Jul 2020 14:51:13.584 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+83619:C 19 Jul 2020 14:51:13.585 # Redis version=6.0.3, bits=64, commit=00000000, modified=0, pid=83619, just started
+83619:C 19 Jul 2020 14:51:13.585 # Configuration loaded
+83619:M 19 Jul 2020 14:51:13.586 * Increased maximum number of open files to 10032 (it was originally set to 256).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 6.0.3 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 83619
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+83619:M 19 Jul 2020 14:51:13.588 # Server initialized
+83619:M 19 Jul 2020 14:51:13.588 * Loading RDB produced by version 6.0.3
+83619:M 19 Jul 2020 14:51:13.588 * RDB age 7 seconds
+83619:M 19 Jul 2020 14:51:13.588 * RDB memory usage when created 1.03 Mb
+83619:M 19 Jul 2020 14:51:13.589 * DB loaded from disk: 0.001 seconds
+83619:M 19 Jul 2020 14:51:13.589 * Ready to accept connections
+84006:C 19 Jul 2020 14:55:39.839 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+84006:C 19 Jul 2020 14:55:39.840 # Redis version=6.0.3, bits=64, commit=00000000, modified=0, pid=84006, just started
+84006:C 19 Jul 2020 14:55:39.840 # Configuration loaded
+84006:M 19 Jul 2020 14:55:39.842 * Increased maximum number of open files to 10032 (it was originally set to 256).
+84006:M 19 Jul 2020 14:55:39.842 # Could not create server TCP listening socket 127.0.0.1:6379: bind: Address already in use
+83619:M 19 Jul 2020 15:00:26.797 * 10 changes in 300 seconds. Saving...
+83619:M 19 Jul 2020 15:00:26.800 * Background saving started by pid 84430
+84430:C 19 Jul 2020 15:00:26.804 * DB saved on disk
+83619:M 19 Jul 2020 15:00:26.900 * Background saving terminated with success
+83619:M 19 Jul 2020 15:01:27.030 * 10000 changes in 60 seconds. Saving...
+83619:M 19 Jul 2020 15:01:27.032 * Background saving started by pid 84506
+84506:C 19 Jul 2020 15:01:27.037 * DB saved on disk
+83619:M 19 Jul 2020 15:01:27.137 * Background saving terminated with success
+86158:C 19 Jul 2020 15:17:48.617 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+86158:C 19 Jul 2020 15:17:48.618 # Redis version=6.0.3, bits=64, commit=00000000, modified=0, pid=86158, just started
+86158:C 19 Jul 2020 15:17:48.619 # Configuration loaded
+86158:M 19 Jul 2020 15:17:48.620 * Increased maximum number of open files to 10032 (it was originally set to 256).
+86158:M 19 Jul 2020 15:17:48.621 # Could not create server TCP listening socket 127.0.0.1:6379: bind: Address already in use
+83619:signal-handler (1595168274) Received SIGTERM scheduling shutdown...
+83619:M 19 Jul 2020 15:17:54.456 # User requested shutdown...
+83619:M 19 Jul 2020 15:17:54.463 * Saving the final RDB snapshot before exiting.
+83619:M 19 Jul 2020 15:17:54.477 * DB saved on disk
+83619:M 19 Jul 2020 15:17:54.477 * Removing the pid file.
+83619:M 19 Jul 2020 15:17:54.478 # Redis is now ready to exit, bye bye...
+89184:C 19 Jul 2020 15:54:30.199 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+89184:C 19 Jul 2020 15:54:30.202 # Redis version=6.0.3, bits=64, commit=00000000, modified=0, pid=89184, just started
+89184:C 19 Jul 2020 15:54:30.203 # Configuration loaded
+89184:M 19 Jul 2020 15:54:30.206 * Increased maximum number of open files to 10032 (it was originally set to 256).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 6.0.3 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 89184
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+89184:M 19 Jul 2020 15:54:30.213 # Server initialized
+89184:M 19 Jul 2020 15:54:30.214 * Loading RDB produced by version 6.0.3
+89184:M 19 Jul 2020 15:54:30.215 * RDB age 2196 seconds
+89184:M 19 Jul 2020 15:54:30.215 * RDB memory usage when created 1.51 Mb
+89184:M 19 Jul 2020 15:54:30.217 * DB loaded from disk: 0.003 seconds
+89184:M 19 Jul 2020 15:54:30.217 * Ready to accept connections
+89191:C 19 Jul 2020 15:54:36.165 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+89191:C 19 Jul 2020 15:54:36.166 # Redis version=6.0.3, bits=64, commit=00000000, modified=0, pid=89191, just started
+89191:C 19 Jul 2020 15:54:36.166 # Configuration loaded
+89191:M 19 Jul 2020 15:54:36.170 * Increased maximum number of open files to 10032 (it was originally set to 256).
+89191:M 19 Jul 2020 15:54:36.172 # Could not create server TCP listening socket 127.0.0.1:6379: bind: Address already in use
+90123:C 19 Jul 2020 16:07:20.945 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+90123:C 19 Jul 2020 16:07:20.952 # Redis version=6.0.3, bits=64, commit=00000000, modified=0, pid=90123, just started
+90123:C 19 Jul 2020 16:07:20.953 # Configuration loaded
+90123:M 19 Jul 2020 16:07:20.958 * Increased maximum number of open files to 10032 (it was originally set to 256).
+90123:M 19 Jul 2020 16:07:20.961 # Could not create server TCP listening socket 127.0.0.1:6379: bind: Address already in use
+89184:signal-handler (1595172006) Received SIGTERM scheduling shutdown...
+89184:M 19 Jul 2020 16:20:06.897 # User requested shutdown...
+89184:M 19 Jul 2020 16:20:06.897 * Saving the final RDB snapshot before exiting.
+89184:M 19 Jul 2020 16:20:06.948 * DB saved on disk
+89184:M 19 Jul 2020 16:20:06.950 * Removing the pid file.
+89184:M 19 Jul 2020 16:20:06.953 # Redis is now ready to exit, bye bye...
+93031:C 19 Jul 2020 16:40:47.045 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+93031:C 19 Jul 2020 16:40:47.046 # Redis version=6.0.3, bits=64, commit=00000000, modified=0, pid=93031, just started
+93031:C 19 Jul 2020 16:40:47.046 # Configuration loaded
+93031:M 19 Jul 2020 16:40:47.048 * Increased maximum number of open files to 10032 (it was originally set to 256).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 6.0.3 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 93031
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+93031:M 19 Jul 2020 16:40:47.135 # Server initialized
+93031:M 19 Jul 2020 16:40:47.136 * Loading RDB produced by version 6.0.3
+93031:M 19 Jul 2020 16:40:47.136 * RDB age 1241 seconds
+93031:M 19 Jul 2020 16:40:47.137 * RDB memory usage when created 1.51 Mb
+93031:M 19 Jul 2020 16:40:47.137 * DB loaded from disk: 0.002 seconds
+93031:M 19 Jul 2020 16:40:47.137 * Ready to accept connections
+93031:signal-handler (1595173257) Received SIGTERM scheduling shutdown...
+93031:M 19 Jul 2020 16:40:57.396 # User requested shutdown...
+93031:M 19 Jul 2020 16:40:57.396 * Saving the final RDB snapshot before exiting.
+93031:M 19 Jul 2020 16:40:57.399 * DB saved on disk
+93031:M 19 Jul 2020 16:40:57.399 * Removing the pid file.
+93031:M 19 Jul 2020 16:40:57.400 # Redis is now ready to exit, bye bye...
+93255:C 19 Jul 2020 16:42:55.991 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+93255:C 19 Jul 2020 16:42:55.994 # Redis version=6.0.3, bits=64, commit=00000000, modified=0, pid=93255, just started
+93255:C 19 Jul 2020 16:42:55.994 # Configuration loaded
+93255:M 19 Jul 2020 16:42:55.996 * Increased maximum number of open files to 10032 (it was originally set to 256).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 6.0.3 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 93255
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+93255:M 19 Jul 2020 16:42:56.003 # Server initialized
+93255:M 19 Jul 2020 16:42:56.004 * Loading RDB produced by version 6.0.3
+93255:M 19 Jul 2020 16:42:56.004 * RDB age 119 seconds
+93255:M 19 Jul 2020 16:42:56.005 * RDB memory usage when created 1.51 Mb
+93255:M 19 Jul 2020 16:42:56.006 * DB loaded from disk: 0.003 seconds
+93255:M 19 Jul 2020 16:42:56.006 * Ready to accept connections
+95143:C 19 Jul 2020 17:02:18.661 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+95143:C 19 Jul 2020 17:02:18.664 # Redis version=6.0.3, bits=64, commit=00000000, modified=0, pid=95143, just started
+95143:C 19 Jul 2020 17:02:18.665 # Configuration loaded
+95143:M 19 Jul 2020 17:02:18.668 * Increased maximum number of open files to 10032 (it was originally set to 256).
+95143:M 19 Jul 2020 17:02:18.671 # Could not create server TCP listening socket 127.0.0.1:6379: bind: Address already in use
+95222:C 19 Jul 2020 17:03:12.645 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+95222:C 19 Jul 2020 17:03:12.647 # Redis version=6.0.3, bits=64, commit=00000000, modified=0, pid=95222, just started
+95222:C 19 Jul 2020 17:03:12.647 # Configuration loaded
+95222:M 19 Jul 2020 17:03:12.651 * Increased maximum number of open files to 10032 (it was originally set to 256).
+95222:M 19 Jul 2020 17:03:12.653 # Could not create server TCP listening socket 127.0.0.1:6379: bind: Address already in use
+95223:C 19 Jul 2020 17:03:13.928 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+95223:C 19 Jul 2020 17:03:13.929 # Redis version=6.0.3, bits=64, commit=00000000, modified=0, pid=95223, just started
+95223:C 19 Jul 2020 17:03:13.930 # Configuration loaded
+95223:M 19 Jul 2020 17:03:13.934 * Increased maximum number of open files to 10032 (it was originally set to 256).
+95223:M 19 Jul 2020 17:03:13.935 # Could not create server TCP listening socket 127.0.0.1:6379: bind: Address already in use
+93255:signal-handler (1595174598) Received SIGTERM scheduling shutdown...
+93255:M 19 Jul 2020 17:03:18.779 # User requested shutdown...
+93255:M 19 Jul 2020 17:03:18.781 * Saving the final RDB snapshot before exiting.
+93255:M 19 Jul 2020 17:03:18.798 * DB saved on disk
+93255:M 19 Jul 2020 17:03:18.798 * Removing the pid file.
+93255:M 19 Jul 2020 17:03:18.799 # Redis is now ready to exit, bye bye...
