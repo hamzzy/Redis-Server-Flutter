@@ -1,6 +1,12 @@
-# MongoServer
+# RedisServer
 
-A new Flutter project.
+A Redis Built for Mac os  using flutter and dart
+
+
+
+###Fixes
+- Work locally  but bad when built
+
 
 ## Getting Started
 
