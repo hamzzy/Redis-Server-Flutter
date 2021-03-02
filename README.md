@@ -1,6 +1,6 @@
 # RedisServer
 
-A Redis Server Desktop Application for Mac os built flutter.
+A Redis Server Desktop Application for Mac os build on flutter.
 
 
 ### Todo
